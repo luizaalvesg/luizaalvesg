@@ -4,9 +4,12 @@
 
 <p align="center"> Today, I'm a <strong>full stack developer</strong> focused on web development.</p>&nbsp;
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizaalvesg&show_icons=true&count_private=true&hide_border=true&title_color=transparent&icon_color=266DD3&text_color=c9d1d9&bg_color=0d1117" alt="Luiza - Status do Github" /> 
+<div  align="center" style="margin-bottom:100px">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=luizaalvesg&theme=transparent&border_radius=20" alt="GitHub Streak" /></a>
 </div>
+ 
+ &nbsp;
+ &nbsp;
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Luiza - React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

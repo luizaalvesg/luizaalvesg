@@ -34,6 +34,6 @@
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{luizaalvesg}/count.svg" /></p> 
 <br>
-</div> <br>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=266DD3&height=120&section=footer"/>

@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=266DD3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=266DD3&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Luiza+Alves;I'm+20+years+old;I'm+graduating+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=266DD3&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Luiza+Alves;I'm+20+years+old;I'm+studying+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizaalvesg&show_icons=true&count_private=true&hide_border=true&title_color=transparent&icon_color=266DD3&text_color=c9d1d9&bg_color=0d1117" alt="Luiza Alves - Status do Github" /> 

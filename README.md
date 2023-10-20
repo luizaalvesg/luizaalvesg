@@ -4,7 +4,6 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luizaalvesg&show_icons=true&count_private=true&hide_border=true&title_color=transparent&icon_color=266DD3&text_color=c9d1d9&bg_color=0d1117" alt="Luiza Alves - Status do Github" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizaalvesg&layout=compact&hide_border=true&title_color=transparent&text_color=266DD3&bg_color=0d1117" />
 </div>
 
 <div align="center" valign="top"><br>
